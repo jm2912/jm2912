@@ -1,4 +1,7 @@
-# 👋 Olá, eu sou João Manoel
+# 👋 Olá, eu sou João Manoel  
+
+<img align='center' src="https://github.com/jm2912/jm2912/blob/main/octocat-1764955512186.png" width="215">
+
 
 ## 🌍 Sobre mim
 - 💻 Desenvolvedor apaixonado por software livre e colaboração  
