@@ -9,9 +9,8 @@
 - Linguagens: JavaScript, Python,  
 - Ferramentas: Git, GitHub Actions, vs code  
 
-## 📂 Contribuições Open Source
-- [Projeto X](link do projeto GitHub) – Correções de bugs e melhorias na documentação  
-- [Projeto Y](link do projeto GitHub) – Implementação de novas funcionalidades em API REST  
+## 📂Projeto em destaque
+- [Projeto buscador de produto](https://github.com/jm2912/logica1ds/blob/main/buscaProduto.js) – programa em JavaScript com função para buscar produtos    
 
 ## 🤝 Como colaborar comigo
 - Abra uma issue nos meus repositórios  
